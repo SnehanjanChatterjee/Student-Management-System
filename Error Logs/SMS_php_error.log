@@ -1,0 +1,238 @@
+[23-Apr-2020 16:08:22 Europe/Berlin] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in F:\CTS Internship\PHP\Assignments\Student Management System\select.php on line 23
+[23-Apr-2020 16:08:22 Europe/Berlin] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in F:\CTS Internship\PHP\Assignments\Student Management System\select.php on line 23
+[23-Apr-2020 16:08:22 Europe/Berlin] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in F:\CTS Internship\PHP\Assignments\Student Management System\select.php on line 23
+[23-Apr-2020 16:08:22 Europe/Berlin] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in F:\CTS Internship\PHP\Assignments\Student Management System\select.php on line 23
+[23-Apr-2020 16:09:03 Europe/Berlin] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in F:\CTS Internship\PHP\Assignments\Student Management System\select.php on line 23
+[23-Apr-2020 16:09:03 Europe/Berlin] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in F:\CTS Internship\PHP\Assignments\Student Management System\select.php on line 23
+[23-Apr-2020 16:09:03 Europe/Berlin] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in F:\CTS Internship\PHP\Assignments\Student Management System\select.php on line 23
+[23-Apr-2020 16:09:25 Europe/Berlin] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in F:\CTS Internship\PHP\Assignments\Student Management System\select.php on line 23
+[23-Apr-2020 16:09:25 Europe/Berlin] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in F:\CTS Internship\PHP\Assignments\Student Management System\select.php on line 23
+[23-Apr-2020 16:09:25 Europe/Berlin] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in F:\CTS Internship\PHP\Assignments\Student Management System\select.php on line 23
+[23-Apr-2020 16:10:28 Europe/Berlin] PHP Fatal error:  Cannot use [] for reading in F:\CTS Internship\PHP\Assignments\Student Management System\select.php on line 24
+[23-Apr-2020 16:11:53 Europe/Berlin] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in F:\CTS Internship\PHP\Assignments\Student Management System\select.php on line 23
+[23-Apr-2020 16:11:53 Europe/Berlin] PHP Warning:  log() expects parameter 1 to be float, string given in F:\CTS Internship\PHP\Assignments\Student Management System\select.php on line 23
+[23-Apr-2020 16:11:53 Europe/Berlin] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in F:\CTS Internship\PHP\Assignments\Student Management System\select.php on line 23
+[23-Apr-2020 16:11:53 Europe/Berlin] PHP Warning:  log() expects parameter 1 to be float, string given in F:\CTS Internship\PHP\Assignments\Student Management System\select.php on line 23
+[23-Apr-2020 16:11:53 Europe/Berlin] PHP Warning:  Use of undefined constant console - assumed 'console' (this will throw an Error in a future version of PHP) in F:\CTS Internship\PHP\Assignments\Student Management System\select.php on line 23
+[23-Apr-2020 16:11:53 Europe/Berlin] PHP Warning:  log() expects parameter 1 to be float, string given in F:\CTS Internship\PHP\Assignments\Student Management System\select.php on line 23
+[23-Apr-2020 16:54:06 Europe/Berlin] PHP Notice:  Undefined index: firstname in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 39
+[23-Apr-2020 16:54:06 Europe/Berlin] PHP Notice:  Undefined index: lastname in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 40
+[23-Apr-2020 16:54:06 Europe/Berlin] PHP Notice:  Undefined index: email in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 41
+[23-Apr-2020 16:54:06 Europe/Berlin] PHP Notice:  Undefined index: sclass in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 42
+[23-Apr-2020 16:54:06 Europe/Berlin] PHP Notice:  Undefined index: ssection in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 43
+[23-Apr-2020 16:54:06 Europe/Berlin] PHP Notice:  Undefined index: address in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 44
+[23-Apr-2020 16:54:06 Europe/Berlin] PHP Notice:  Undefined index: mobileNo in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 45
+[23-Apr-2020 16:54:06 Europe/Berlin] PHP Notice:  Undefined index: password in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 46
+[23-Apr-2020 16:54:57 Europe/Berlin] PHP Notice:  Undefined index: firstname in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 39
+[23-Apr-2020 16:54:57 Europe/Berlin] PHP Notice:  Undefined index: lastname in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 40
+[23-Apr-2020 16:54:57 Europe/Berlin] PHP Notice:  Undefined index: email in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 41
+[23-Apr-2020 16:54:57 Europe/Berlin] PHP Notice:  Undefined index: sclass in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 42
+[23-Apr-2020 16:54:57 Europe/Berlin] PHP Notice:  Undefined index: ssection in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 43
+[23-Apr-2020 16:54:57 Europe/Berlin] PHP Notice:  Undefined index: address in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 44
+[23-Apr-2020 16:54:57 Europe/Berlin] PHP Notice:  Undefined index: mobileNo in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 45
+[23-Apr-2020 16:54:57 Europe/Berlin] PHP Notice:  Undefined index: password in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 46
+[23-Apr-2020 16:55:00 Europe/Berlin] PHP Notice:  Undefined index: firstname in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 39
+[23-Apr-2020 16:55:00 Europe/Berlin] PHP Notice:  Undefined index: lastname in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 40
+[23-Apr-2020 16:55:00 Europe/Berlin] PHP Notice:  Undefined index: email in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 41
+[23-Apr-2020 16:55:00 Europe/Berlin] PHP Notice:  Undefined index: sclass in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 42
+[23-Apr-2020 16:55:00 Europe/Berlin] PHP Notice:  Undefined index: ssection in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 43
+[23-Apr-2020 16:55:00 Europe/Berlin] PHP Notice:  Undefined index: address in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 44
+[23-Apr-2020 16:55:00 Europe/Berlin] PHP Notice:  Undefined index: mobileNo in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 45
+[23-Apr-2020 16:55:00 Europe/Berlin] PHP Notice:  Undefined index: password in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 46
+[23-Apr-2020 16:56:14 Europe/Berlin] PHP Notice:  Undefined index: firstname in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 39
+[23-Apr-2020 16:56:14 Europe/Berlin] PHP Notice:  Undefined index: lastname in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 40
+[23-Apr-2020 16:56:14 Europe/Berlin] PHP Notice:  Undefined index: email in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 41
+[23-Apr-2020 16:56:14 Europe/Berlin] PHP Notice:  Undefined index: sclass in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 42
+[23-Apr-2020 16:56:14 Europe/Berlin] PHP Notice:  Undefined index: ssection in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 43
+[23-Apr-2020 16:56:14 Europe/Berlin] PHP Notice:  Undefined index: address in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 44
+[23-Apr-2020 16:56:14 Europe/Berlin] PHP Notice:  Undefined index: mobileNo in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 45
+[23-Apr-2020 16:56:14 Europe/Berlin] PHP Notice:  Undefined index: password in F:\CTS Internship\PHP\Assignments\Student Management System\index.php on line 46
+[23-Apr-2020 17:55:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in F:\CTS Internship\PHP\Assignments\Student Management System\login.php:20
+Stack trace:
+#0 {main}
+  thrown in F:\CTS Internship\PHP\Assignments\Student Management System\login.php on line 20
+[23-Apr-2020 20:47:43 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 36
+[23-Apr-2020 20:47:43 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 36
+[23-Apr-2020 20:48:34 Europe/Berlin] PHP Notice:  Undefined variable: _SESSION in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 36
+[23-Apr-2020 20:48:34 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 36
+[23-Apr-2020 20:59:37 Europe/Berlin] PHP Notice:  session_start(): A session had already been started - ignoring in F:\CTS Internship\PHP\Assignments\Student Management System\login.php on line 29
+[23-Apr-2020 21:23:09 Europe/Berlin] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE) in F:\CTS Internship\PHP\Assignments\Student Management System\login.php on line 37
+[23-Apr-2020 21:26:04 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in F:\CTS Internship\PHP\Assignments\Student Management System\login.php on line 36
+[23-Apr-2020 21:27:20 Europe/Berlin] PHP Parse error:  syntax error, unexpected '}' in F:\CTS Internship\PHP\Assignments\Student Management System\login.php on line 36
+[23-Apr-2020 21:29:16 Europe/Berlin] PHP Notice:  Undefined index: last_logon in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 42
+[23-Apr-2020 21:29:16 Europe/Berlin] PHP Notice:  Undefined index: class in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 44
+[23-Apr-2020 21:29:16 Europe/Berlin] PHP Notice:  Undefined index: section in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 45
+[23-Apr-2020 21:29:16 Europe/Berlin] PHP Notice:  Undefined index: approval_status in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 46
+[23-Apr-2020 21:45:33 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'storing' (T_STRING), expecting '(' in F:\CTS Internship\PHP\Assignments\Student Management System\login.php on line 30
+[24-Apr-2020 09:13:57 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in F:\CTS Internship\PHP\Assignments\Student Management System\signOut.php on line 6
+[24-Apr-2020 09:14:32 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in F:\CTS Internship\PHP\Assignments\Student Management System\signOut.php on line 6
+[24-Apr-2020 09:15:05 Europe/Berlin] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in F:\CTS Internship\PHP\Assignments\Student Management System\signOut.php on line 6
+[24-Apr-2020 11:34:09 Europe/Berlin] PHP Notice:  Undefined variable: sql1 in F:\CTS Internship\PHP\Assignments\Student Management System\editProfile.php on line 46
+[24-Apr-2020 11:34:09 Europe/Berlin] PHP Warning:  mysqli_query(): Empty query in F:\CTS Internship\PHP\Assignments\Student Management System\editProfile.php on line 46
+[24-Apr-2020 11:34:09 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in F:\CTS Internship\PHP\Assignments\Student Management System\editProfile.php on line 47
+[24-Apr-2020 11:34:09 Europe/Berlin] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in F:\CTS Internship\PHP\Assignments\Student Management System\editProfile.php on line 116
+[24-Apr-2020 11:34:09 Europe/Berlin] PHP Warning:  Illegal string offset 'address' in F:\CTS Internship\PHP\Assignments\Student Management System\editProfile.php on line 116
+[24-Apr-2020 11:34:09 Europe/Berlin] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in F:\CTS Internship\PHP\Assignments\Student Management System\editProfile.php on line 122
+[24-Apr-2020 11:34:09 Europe/Berlin] PHP Warning:  Illegal string offset 'mobile_no' in F:\CTS Internship\PHP\Assignments\Student Management System\editProfile.php on line 122
+[24-Apr-2020 11:34:26 Europe/Berlin] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in F:\CTS Internship\PHP\Assignments\Student Management System\editProfile.php on line 116
+[24-Apr-2020 11:34:26 Europe/Berlin] PHP Warning:  Illegal string offset 'address' in F:\CTS Internship\PHP\Assignments\Student Management System\editProfile.php on line 116
+[24-Apr-2020 11:34:26 Europe/Berlin] PHP Warning:  Use of undefined constant row - assumed 'row' (this will throw an Error in a future version of PHP) in F:\CTS Internship\PHP\Assignments\Student Management System\editProfile.php on line 122
+[24-Apr-2020 11:34:26 Europe/Berlin] PHP Warning:  Illegal string offset 'mobile_no' in F:\CTS Internship\PHP\Assignments\Student Management System\editProfile.php on line 122
+[24-Apr-2020 11:37:33 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in F:\CTS Internship\PHP\Assignments\Student Management System\editProfile.php on line 47
+[24-Apr-2020 11:37:33 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in F:\CTS Internship\PHP\Assignments\Student Management System\editProfile.php on line 122
+[24-Apr-2020 11:37:59 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in F:\CTS Internship\PHP\Assignments\Student Management System\editProfile.php on line 47
+[24-Apr-2020 11:37:59 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in F:\CTS Internship\PHP\Assignments\Student Management System\editProfile.php on line 122
+[24-Apr-2020 11:38:29 Europe/Berlin] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in F:\CTS Internship\PHP\Assignments\Student Management System\editProfile.php on line 47
+[24-Apr-2020 11:40:14 Europe/Berlin] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in F:\CTS Internship\PHP\Assignments\Student Management System\editProfile.php on line 98
+[24-Apr-2020 11:41:17 Europe/Berlin] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in F:\CTS Internship\PHP\Assignments\Student Management System\editProfile.php on line 98
+[24-Apr-2020 20:02:39 Europe/Berlin] PHP Notice:  Undefined variable: db in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 29
+[24-Apr-2020 20:02:40 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 29
+[24-Apr-2020 20:02:40 Europe/Berlin] PHP Notice:  Undefined variable: db in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 30
+[24-Apr-2020 20:02:40 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 30
+[24-Apr-2020 20:02:40 Europe/Berlin] PHP Notice:  Undefined variable: db in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 31
+[24-Apr-2020 20:02:40 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 31
+[24-Apr-2020 20:02:40 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 34
+[24-Apr-2020 20:02:40 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 37
+[24-Apr-2020 20:02:40 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 40
+[24-Apr-2020 20:04:43 Europe/Berlin] PHP Notice:  Undefined variable: db in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 29
+[24-Apr-2020 20:04:43 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 29
+[24-Apr-2020 20:04:43 Europe/Berlin] PHP Notice:  Undefined variable: db in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 30
+[24-Apr-2020 20:04:43 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 30
+[24-Apr-2020 20:04:43 Europe/Berlin] PHP Notice:  Undefined variable: db in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 31
+[24-Apr-2020 20:04:43 Europe/Berlin] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 31
+[24-Apr-2020 20:04:43 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 34
+[24-Apr-2020 20:04:43 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 37
+[24-Apr-2020 20:04:43 Europe/Berlin] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 40
+[24-Apr-2020 21:10:04 Europe/Berlin] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in F:\CTS Internship\PHP\Assignments\Student Management System\login.php on line 40
+[24-Apr-2020 21:10:52 Europe/Berlin] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in F:\CTS Internship\PHP\Assignments\Student Management System\login.php on line 40
+[24-Apr-2020 21:56:37 Europe/Berlin] PHP Notice:  Undefined variable: encryptedPassword in F:\CTS Internship\PHP\Assignments\Student Management System\editFormData.php on line 27
+[24-Apr-2020 23:18:37 Europe/Berlin] PHP Parse error:  syntax error, unexpected ',' in F:\CTS Internship\PHP\Assignments\Student Management System\login.php on line 18
+[24-Apr-2020 23:23:28 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')' in F:\CTS Internship\PHP\Assignments\Student Management System\login.php on line 26
+[24-Apr-2020 23:52:13 Europe/Berlin] PHP Notice:  Undefined index: ssection in F:\CTS Internship\PHP\Assignments\Student Management System\editFormData.php on line 20
+[25-Apr-2020 12:39:45 Europe/Berlin] PHP Notice:  Undefined variable: section in F:\CTS Internship\PHP\Assignments\Student Management System\select.php on line 28
+[25-Apr-2020 12:45:52 Europe/Berlin] PHP Notice:  Undefined index: ssection in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 19
+[25-Apr-2020 12:52:10 Europe/Berlin] PHP Notice:  Undefined variable: section in F:\CTS Internship\PHP\Assignments\Student Management System\select.php on line 28
+[25-Apr-2020 13:21:32 Europe/Berlin] PHP Notice:  Undefined index: ssection in F:\CTS Internship\PHP\Assignments\Student Management System\editFormData.php on line 20
+[25-Apr-2020 14:13:26 Europe/Berlin] PHP Notice:  Undefined index: last_logon in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 42
+[25-Apr-2020 14:13:26 Europe/Berlin] PHP Notice:  Undefined index: name in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 43
+[25-Apr-2020 14:13:26 Europe/Berlin] PHP Notice:  Undefined index: class in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 44
+[25-Apr-2020 14:13:26 Europe/Berlin] PHP Notice:  Undefined index: section in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 45
+[25-Apr-2020 14:13:26 Europe/Berlin] PHP Notice:  Undefined index: approval_status in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 46
+[25-Apr-2020 15:55:49 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 20
+[25-Apr-2020 15:55:49 Europe/Berlin] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 24
+[25-Apr-2020 15:55:49 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 39
+[25-Apr-2020 15:55:49 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 40
+[25-Apr-2020 15:55:49 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 145
+[25-Apr-2020 15:57:01 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 20
+[25-Apr-2020 15:57:01 Europe/Berlin] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 24
+[25-Apr-2020 15:57:01 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 39
+[25-Apr-2020 15:57:01 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 40
+[25-Apr-2020 15:57:01 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 145
+[25-Apr-2020 15:58:23 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 20
+[25-Apr-2020 15:58:23 Europe/Berlin] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 24
+[25-Apr-2020 15:58:23 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 39
+[25-Apr-2020 15:58:23 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 40
+[25-Apr-2020 15:58:23 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 145
+[25-Apr-2020 16:00:55 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 20
+[25-Apr-2020 16:00:55 Europe/Berlin] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 24
+[25-Apr-2020 16:00:55 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 39
+[25-Apr-2020 16:00:55 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 40
+[25-Apr-2020 16:00:55 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 145
+[25-Apr-2020 16:02:27 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 20
+[25-Apr-2020 16:02:27 Europe/Berlin] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 24
+[25-Apr-2020 16:02:27 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 39
+[25-Apr-2020 16:02:27 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 40
+[25-Apr-2020 16:02:27 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 145
+[25-Apr-2020 16:02:41 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 20
+[25-Apr-2020 16:02:41 Europe/Berlin] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 24
+[25-Apr-2020 16:02:41 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 39
+[25-Apr-2020 16:02:41 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 40
+[25-Apr-2020 16:02:41 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 145
+[25-Apr-2020 16:02:45 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 20
+[25-Apr-2020 16:02:45 Europe/Berlin] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 24
+[25-Apr-2020 16:02:45 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 39
+[25-Apr-2020 16:02:45 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 40
+[25-Apr-2020 16:02:45 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 145
+[25-Apr-2020 16:03:13 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 20
+[25-Apr-2020 16:03:13 Europe/Berlin] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 24
+[25-Apr-2020 16:03:13 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 39
+[25-Apr-2020 16:03:13 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 40
+[25-Apr-2020 16:03:13 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 145
+[25-Apr-2020 16:03:16 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 20
+[25-Apr-2020 16:03:16 Europe/Berlin] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 24
+[25-Apr-2020 16:03:16 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 39
+[25-Apr-2020 16:03:16 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 40
+[25-Apr-2020 16:03:16 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 145
+[25-Apr-2020 16:03:20 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 20
+[25-Apr-2020 16:03:20 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 20
+[25-Apr-2020 16:03:20 Europe/Berlin] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 24
+[25-Apr-2020 16:03:20 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 37
+[25-Apr-2020 16:03:20 Europe/Berlin] PHP Warning:  Division by zero in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 37
+[25-Apr-2020 16:03:20 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 39
+[25-Apr-2020 16:03:20 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 40
+[25-Apr-2020 16:04:18 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 20
+[25-Apr-2020 16:04:18 Europe/Berlin] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 24
+[25-Apr-2020 16:04:18 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 39
+[25-Apr-2020 16:04:18 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 40
+[25-Apr-2020 16:04:18 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 145
+[25-Apr-2020 16:06:46 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 20
+[25-Apr-2020 16:06:46 Europe/Berlin] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 24
+[25-Apr-2020 16:06:46 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 39
+[25-Apr-2020 16:06:46 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 40
+[25-Apr-2020 16:06:46 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 145
+[25-Apr-2020 16:06:51 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 20
+[25-Apr-2020 16:06:51 Europe/Berlin] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 24
+[25-Apr-2020 16:06:51 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 39
+[25-Apr-2020 16:06:51 Europe/Berlin] PHP Warning:  A non-numeric value encountered in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 40
+[25-Apr-2020 16:06:51 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 145
+[25-Apr-2020 16:28:43 Europe/Berlin] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 25
+[25-Apr-2020 16:28:43 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 138
+[25-Apr-2020 16:29:30 Europe/Berlin] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 25
+[25-Apr-2020 16:29:30 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 138
+[25-Apr-2020 16:32:08 Europe/Berlin] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 25
+[25-Apr-2020 16:32:08 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 140
+[25-Apr-2020 17:57:18 Europe/Berlin] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 25
+[25-Apr-2020 17:57:18 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 149
+[25-Apr-2020 17:57:58 Europe/Berlin] PHP Warning:  mysqli_fetch_all() expects parameter 1 to be mysqli_result, bool given in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 25
+[25-Apr-2020 17:57:58 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 149
+[26-Apr-2020 12:46:38 Europe/Berlin] PHP Notice:  Undefined index: myfile in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 55
+[26-Apr-2020 12:46:38 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 55
+[26-Apr-2020 12:46:38 Europe/Berlin] PHP Notice:  Undefined variable: location in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 66
+[26-Apr-2020 12:46:38 Europe/Berlin] PHP Notice:  Undefined variable: sql1 in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 102
+[26-Apr-2020 12:46:38 Europe/Berlin] PHP Warning:  mysqli_query(): Empty query in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 102
+[26-Apr-2020 12:47:42 Europe/Berlin] PHP Notice:  Undefined index: myfile in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 55
+[26-Apr-2020 12:47:42 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 55
+[26-Apr-2020 12:47:42 Europe/Berlin] PHP Notice:  Undefined variable: location in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 66
+[26-Apr-2020 12:47:42 Europe/Berlin] PHP Notice:  Undefined variable: sql1 in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 102
+[26-Apr-2020 12:47:42 Europe/Berlin] PHP Warning:  mysqli_query(): Empty query in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 102
+[26-Apr-2020 12:57:25 Europe/Berlin] PHP Notice:  Undefined index: myfile in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 55
+[26-Apr-2020 12:57:25 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 55
+[26-Apr-2020 12:57:25 Europe/Berlin] PHP Notice:  Undefined variable: sql1 in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 102
+[26-Apr-2020 12:57:25 Europe/Berlin] PHP Warning:  mysqli_query(): Empty query in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 102
+[26-Apr-2020 12:59:22 Europe/Berlin] PHP Notice:  Undefined index: myfile in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 55
+[26-Apr-2020 12:59:22 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 55
+[26-Apr-2020 12:59:22 Europe/Berlin] PHP Notice:  Undefined variable: sql1 in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 102
+[26-Apr-2020 12:59:22 Europe/Berlin] PHP Warning:  mysqli_query(): Empty query in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 102
+[26-Apr-2020 13:00:45 Europe/Berlin] PHP Notice:  Undefined variable: location in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 85
+[26-Apr-2020 13:00:45 Europe/Berlin] PHP Warning:  move_uploaded_file(): Filename cannot be empty in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 85
+[26-Apr-2020 13:00:45 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move 'C:\xampp\tmp\php7F97.tmp' to '' in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 85
+[26-Apr-2020 13:02:08 Europe/Berlin] PHP Notice:  Undefined variable: location in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 89
+[26-Apr-2020 13:16:30 Europe/Berlin] PHP Warning:  move_uploaded_file(./uploaded-file/scene.jpg): failed to open stream: No such file or directory in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 85
+[26-Apr-2020 13:16:30 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move 'C:\xampp\tmp\phpEB8E.tmp' to './uploaded-file/scene.jpg' in F:\CTS Internship\PHP\Assignments\Student Management System\submitFormData.php on line 85
+[27-Apr-2020 07:14:36 Europe/Berlin] PHP Notice:  Undefined index: name in F:\CTS Internship\PHP\Assignments\Student Management System\myProfile.php on line 53
+[27-Apr-2020 07:14:36 Europe/Berlin] PHP Notice:  Undefined index: address in F:\CTS Internship\PHP\Assignments\Student Management System\myProfile.php on line 54
+[27-Apr-2020 07:14:36 Europe/Berlin] PHP Notice:  Undefined index: mobile_no in F:\CTS Internship\PHP\Assignments\Student Management System\myProfile.php on line 55
+[27-Apr-2020 07:14:36 Europe/Berlin] PHP Notice:  Undefined index: class in F:\CTS Internship\PHP\Assignments\Student Management System\myProfile.php on line 56
+[27-Apr-2020 07:14:36 Europe/Berlin] PHP Notice:  Undefined index: section in F:\CTS Internship\PHP\Assignments\Student Management System\myProfile.php on line 57
+[27-Apr-2020 07:14:41 Europe/Berlin] PHP Notice:  Undefined index: id in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 23
+[27-Apr-2020 07:14:41 Europe/Berlin] PHP Notice:  Undefined index: last_logon in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 89
+[27-Apr-2020 07:14:41 Europe/Berlin] PHP Notice:  Undefined index: name in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 90
+[27-Apr-2020 07:14:41 Europe/Berlin] PHP Notice:  Undefined index: class in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 91
+[27-Apr-2020 07:14:41 Europe/Berlin] PHP Notice:  Undefined index: section in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 92
+[27-Apr-2020 07:14:41 Europe/Berlin] PHP Notice:  Undefined index: approval_status in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 93
+[28-Apr-2020 08:20:20 Europe/Berlin] PHP Notice:  Undefined index: id in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 23
+[28-Apr-2020 08:20:20 Europe/Berlin] PHP Notice:  Undefined index: last_logon in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 89
+[28-Apr-2020 08:20:20 Europe/Berlin] PHP Notice:  Undefined index: name in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 90
+[28-Apr-2020 08:20:20 Europe/Berlin] PHP Notice:  Undefined index: class in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 91
+[28-Apr-2020 08:20:20 Europe/Berlin] PHP Notice:  Undefined index: section in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 92
+[28-Apr-2020 08:20:20 Europe/Berlin] PHP Notice:  Undefined index: approval_status in F:\CTS Internship\PHP\Assignments\Student Management System\dashboard.php on line 93
